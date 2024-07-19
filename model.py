@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""
-@author: Van Duc <vvduc03@gmail.com>
-"""
+
+
+
 import torch
 import torch.nn as nn
 from torchinfo import summary
